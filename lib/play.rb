@@ -38,9 +38,4 @@ end
 # Define your play method below
 
 def play(board)
-  iterations = 1
-  while iterations <=9
-    turn(board)
-    iterations++
-  end
 end
