@@ -38,9 +38,9 @@ end
 # Define your play method below
 
 def play(board)
-iterations = 1
-while iteration <=9
-turn(board)
-iteration++
-end
+  iterations = 1
+  while iteration <=9
+    turn(board)
+    iteration++
+  end
 end
