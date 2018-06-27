@@ -39,8 +39,8 @@ end
 
 def play(board)
   iterations = 1
-  while iteration <=9 do
+  while iterations <=9 
     turn(board)
-    iteration++
+    iterations++
   end
 end
